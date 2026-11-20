@@ -1,6 +1,6 @@
 # DragonDesk 龙娘游戏展台
 
-DragonDesk 是一款 Windows 11 x64 桌宠。点龙娘可以打开展台、启动游戏或翻看上次留下的便签。常规龙娘和 Q 版「星角龙姬」可以切换。贴在左、右或底边时，她会先停留展示，再收回到探头姿态，鼠标移过去就会走出来。
+DragonDesk 是一款 Windows 11 x64 桌宠。点龙娘可以打开展台、启动游戏或翻看上次留下的便签。可以切换常规龙娘和抱膝盘尾的 Q 版龙娘。贴在左、右或底边时，她会先停留展示，再收回到探头姿态，鼠标移过去就会走出来。贴在顶部时始终全身可见。
 
 本机公测版免费，无需注册。游戏库、便签和外观设置保存在当前 Windows 用户的电脑上。点影音搜索或打开游戏平台时，请求由你选择的第三方服务处理。
 
@@ -18,4 +18,6 @@ DragonDesk 是一款 Windows 11 x64 桌宠。点龙娘可以打开展台、启�
 
 发行维护者负责核对素材来源、署名和使用范围。权利问题请通过上面的专用邮箱私下联系。授权范围出现有依据的争议时，维护者将暂停提供涉及的安装包或预览，经核实后更正、更换或撤下，并回复来信人。每次发行可查阅附件中的素材声明。
 
-常规龙娘来自 ouyang070125-cmyk 的《GPT Dragon Girl》，依 CC BY 4.0 使用。图集转为 PNG，贴边姿态经 AI 辅助改编。「星角龙姬」及其八种姿态来自项目的 AI 辅助矢量美术。发行附件及安装包附有相应说明。项目自有程序部分 © 2026 DragonDesk 项目贡献者。[常规龙娘原作](https://github.com/ouyang070125-cmyk/codex-dragon-pet) · [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+Q 版取自小黑盒用户「红红不糊涂」发布的《GPT龙娘表情包》。原帖注明造型参考 ZipZipPipe 的「Qwen大小姐」。DragonDesk 整理了透明立绘，并用 AI 辅助改绘角色动作。侵权请联系我删除。联系邮箱为 silvercrow1234@163.com。[表情包原帖](https://www.xiaoheihe.cn/app/bbs/link/74e072d75947) · [ZipZipPipe 原画集](https://www.pixiv.net/artworks/148186519)
+
+常规龙娘来自 ouyang070125-cmyk 的《GPT Dragon Girl》，依 CC BY 4.0 使用。图集转为 PNG，贴边姿态经 AI 辅助改编。项目自有程序部分 © 2026 DragonDesk 项目贡献者。[常规龙娘原作](https://github.com/ouyang070125-cmyk/codex-dragon-pet) · [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
