@@ -6,7 +6,9 @@ DragonDesk 是一款 Windows 11 x64 桌宠。点龙娘可以打开展台、启�
 
 ## 安装与升级
 
-在 Releases 选择标明 Windows x64 的 MSI。双击文件，阅读组件条款并按提示安装。完成页可直接打开展台，首次打开后可选择「导入游戏」或「发现本机游戏」。更新前先右键桌宠退出，再运行新版安装包。Windows「已安装的应用」可以卸载程序。「使用与隐私」说明了如何清除本机记录。[GitHub Releases](https://github.com/yc13665193882-source/DragonDesk/releases)
+在 Releases 选择标明 Windows x64 的 MSI。双击文件。首次安装时可以选择空文件夹作为安装位置，也可以取消默认勾选的「在桌面创建 DragonDesk 快捷方式」。阅读并接受组件条款后即可继续安装。完成页可直接打开展台，首次打开后可选择「导入游戏」或「发现本机游戏」。更新前先右键桌宠退出，再运行新版安装包。[GitHub Releases](https://github.com/yc13665193882-source/DragonDesk/releases)
+
+要卸载程序，可以在开始菜单搜索「卸载 DragonDesk」，也可以到 Windows「设置 → 应用 → 安装的应用」找到 DragonDesk，选择「卸载」。卸载后会保留游戏库和便签。「使用与隐私」说明了如何清除本机记录。如果只是想清理下载目录，可以直接删除下载的 MSI 文件。
 
 ## 反馈与联系
 
