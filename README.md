@@ -16,4 +16,6 @@ DragonDesk 是一款 Windows 11 x64 桌宠。点龙娘可以打开展台、启�
 
 ## 角色与署名
 
+发行维护者负责核对素材来源、署名和使用范围。权利问题请通过上面的专用邮箱私下联系。授权范围出现有依据的争议时，维护者将暂停提供涉及的安装包或预览，经核实后更正、更换或撤下，并回复来信人。每次发行可查阅附件中的素材声明。
+
 常规龙娘来自 ouyang070125-cmyk 的《GPT Dragon Girl》，依 CC BY 4.0 使用。图集转为 PNG，贴边姿态经 AI 辅助改编。「星角龙姬」及其八种姿态来自项目的 AI 辅助矢量美术。发行附件及安装包附有相应说明。项目自有程序部分 © 2026 DragonDesk 项目贡献者。[常规龙娘原作](https://github.com/ouyang070125-cmyk/codex-dragon-pet) · [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
